@@ -1,1 +1,2 @@
-# gitsem3
+# This is GitSem3
+***GitHub***
